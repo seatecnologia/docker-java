@@ -1,6 +1,6 @@
 # debian squeeze + java 1.8.0_162
 
-FROM debian:squeeze
+FROM debian:wheezy
 
 MAINTAINER Edson Ma <edsonma@gmail.com>
 
