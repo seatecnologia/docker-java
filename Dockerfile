@@ -1,4 +1,4 @@
-# debian squeeze + java 1.8.0_162
+# debian wheezy-slim + java 1.8.0_162
 
 FROM debian:wheezy-slim
 
