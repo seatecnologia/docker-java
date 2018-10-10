@@ -1,4 +1,4 @@
-# debian squeeze + java 1.8.0_162
+# debian squeeze + java 1.7.0_80
 
 FROM debian:wheezy
 
